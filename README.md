@@ -1,2 +1,2 @@
 # hello-world
-1st project
+Just trying to figure out Github/Git, learning programming to have something to do this summer
